@@ -1,2 +1,2 @@
-# nazar690.github.io-niagara-falls
+Niagara Falls
 Site with bootstrap about niagara falls
